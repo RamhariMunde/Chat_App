@@ -5,7 +5,6 @@ import java.net.* :- ServerSocket Class is used for providing system-independent
                      client/server Socket Connection.
 
  Socket s :- it is a socket class object which is use to connect server socket.
-
  while creating this object we have pass two paramiter as the IP address of Server & the Port Number of the Server Application.
 
 */
