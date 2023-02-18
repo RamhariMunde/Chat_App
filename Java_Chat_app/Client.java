@@ -1,4 +1,4 @@
-/* This a java Application which will comunicate eith each other.
+/* This a java Application which will comunicate each other.
 To parform the comunication we use the consept of socket programing.
 
 import java.net.* :- ServerSocket Class is used for providing system-independent implementation of the server-side of
