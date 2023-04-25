@@ -3,7 +3,6 @@ To parform the comunication we use the consept of socket programing.
 import java.net.* :- ServerSocket Class is used for providing system-independent implementation of the server-side of a
                      client/server Socket Connection.
 */
-
 import java.net.*;
 import java.io.*;
 
