@@ -1,3 +1,4 @@
+
 /* This a java Application which will comunicate each other.
 To parform the comunication we use the consept of socket programing.
 
