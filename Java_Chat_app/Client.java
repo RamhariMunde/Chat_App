@@ -1,15 +1,3 @@
-
-/* This a java Application which will comunicate each other.
-To parform the comunication we use the consept of socket programing.
-
-import java.net.* :- ServerSocket Class is used for providing system-independent implementation of the server-side of
-                     client/server Socket Connection.
-
- Socket s :- it is a socket class object which is use to connect server socket.
- while creating this object we have pass two paramiter as the IP address of Server & the Port Number of the Server Application.
- in this code us used  to only education parps 
-**/
-
 import java.net.*;
 import java.io.*;
 
